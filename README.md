@@ -39,6 +39,5 @@ The full paper is available [here](paper/Quantum_Advantage_Maze_Pathfinding.pdf)
 
 **Note**: Grover's simulation was run on classical hardware; results may differ significantly on real quantum processors.
 
-## 📜 License
-[MIT License](LICENSE)
+
 
